@@ -1,2 +1,2 @@
 # bootstrap_teaching
-Kodluyoruz www.patika.dev
+Kodluyoruz ekibi sayesinde Bootstrap öğreniyorum. www.patika.dev
